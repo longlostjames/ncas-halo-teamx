@@ -1,0 +1,47 @@
+Processing Galion data for 20250726
+Found 1873 Galion scan files for 20250726
+Searching in: /gws/pw/j07/ncas_obs_vol1/amf/raw_data/ncas-lidar-wind-profiler-1/incoming/20250603_teamx/2025/202507/20250726
+Sample files:
+  /gws/pw/j07/ncas_obs_vol1/amf/raw_data/ncas-lidar-wind-profiler-1/incoming/20250603_teamx/2025/202507/20250726/00/20007_26072500_66.scn
+  /gws/pw/j07/ncas_obs_vol1/amf/raw_data/ncas-lidar-wind-profiler-1/incoming/20250603_teamx/2025/202507/20250726/00/20025_26072500_66.scn
+  /gws/pw/j07/ncas_obs_vol1/amf/raw_data/ncas-lidar-wind-profiler-1/incoming/20250603_teamx/2025/202507/20250726/00/20006_26072500_66.scn
+  /gws/pw/j07/ncas_obs_vol1/amf/raw_data/ncas-lidar-wind-profiler-1/incoming/20250603_teamx/2025/202507/20250726/00/19986_26072500_66.scn
+  /gws/pw/j07/ncas_obs_vol1/amf/raw_data/ncas-lidar-wind-profiler-1/incoming/20250603_teamx/2025/202507/20250726/00/20034_26072500_66.scn
+Successfully processed 1873 files, 0 failed
+Created wind product: /gws/pw/j07/ncas_obs_vol1/amf/processing/ncas-lidar-wind-profiler-1/20250603_teamx/doppy_processed/2025/202507/ncas-lidar-wind-profiler-1_20250726_wind_v1.0.nc
+
+## You are using the Python ARM Radar Toolkit (Py-ART), an open source
+## library for working with weather radar data. Py-ART is partly
+## supported by the U.S. Department of Energy as part of the Atmospheric
+## Radiation Measurement (ARM) Climate Research Facility, an Office of
+## Science user facility.
+##
+## If you use this software to prepare a publication, please cite:
+##
+##     JJ Helmus and SM Collis, JORS 2016, doi: 10.5334/jors.119
+
+sending incremental file list
+./
+speed-direction/
+speed-direction/ncas-lidar-wind-profiler-1_sterzing_galion_wind_speed_dir_20250718.png
+speed-direction/ncas-lidar-wind-profiler-1_sterzing_galion_wind_speed_dir_20250719.png
+speed-direction/ncas-lidar-wind-profiler-1_sterzing_galion_wind_speed_dir_20250720.png
+speed-direction/ncas-lidar-wind-profiler-1_sterzing_galion_wind_speed_dir_20250721.png
+speed-direction/ncas-lidar-wind-profiler-1_sterzing_galion_wind_speed_dir_20250722.png
+speed-direction/ncas-lidar-wind-profiler-1_sterzing_galion_wind_speed_dir_20250723.png
+speed-direction/ncas-lidar-wind-profiler-1_sterzing_galion_wind_speed_dir_20250724.png
+speed-direction/ncas-lidar-wind-profiler-1_sterzing_galion_wind_speed_dir_20250725.png
+speed-direction/ncas-lidar-wind-profiler-1_sterzing_galion_wind_speed_dir_20250726.png
+uvw/
+uvw/ncas-lidar-wind-profiler-1_sterzing_galion_wind_components_20250718.png
+uvw/ncas-lidar-wind-profiler-1_sterzing_galion_wind_components_20250719.png
+uvw/ncas-lidar-wind-profiler-1_sterzing_galion_wind_components_20250720.png
+uvw/ncas-lidar-wind-profiler-1_sterzing_galion_wind_components_20250721.png
+uvw/ncas-lidar-wind-profiler-1_sterzing_galion_wind_components_20250722.png
+uvw/ncas-lidar-wind-profiler-1_sterzing_galion_wind_components_20250723.png
+uvw/ncas-lidar-wind-profiler-1_sterzing_galion_wind_components_20250724.png
+uvw/ncas-lidar-wind-profiler-1_sterzing_galion_wind_components_20250725.png
+uvw/ncas-lidar-wind-profiler-1_sterzing_galion_wind_components_20250726.png
+
+sent 10,717,930 bytes  received 377 bytes  4,287,322.80 bytes/sec
+total size is 10,956,248  speedup is 1.02

@@ -1,0 +1,356 @@
+
+real	0m10.710s
+user	0m1.953s
+sys	0m0.597s
+
+real	0m2.892s
+user	0m1.859s
+sys	0m0.403s
+
+real	0m6.603s
+user	0m3.218s
+sys	0m0.637s
+
+real	0m4.696s
+user	0m3.148s
+sys	0m0.558s
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+Traceback (most recent call last):
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 1107, in process_single_file
+    fig, ax = create_ppi_map_plot_offline(radar, field_name=field_name,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/cjwalden/git/halo-teamx/plot_ppi_map_halo.py", line 686, in create_ppi_map_plot_offline
+    field_data_padded = field_data
+                        ^^^^^^^^^^
+NameError: name 'field_data' is not defined
+
+real	0m3.897s
+user	0m2.466s
+sys	0m0.438s
