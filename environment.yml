@@ -1,0 +1,18 @@
+name: halo-teamx
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - xarray
+  - matplotlib
+  - cartopy
+  - pyproj
+  - contextily
+  - arm_pyart
+  - netcdf4
+  - scipy
+  - pip
+  - pip:
+    - doppy  # or install locally with pip install -e /path/to/doppy
