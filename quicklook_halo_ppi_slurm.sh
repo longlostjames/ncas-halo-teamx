@@ -11,8 +11,8 @@
 # Create logs directory if it doesn't exist
 mkdir -p slurm_logs
 
-source $HOME/anaconda3/etc/profile.d/conda.sh
-conda activate cao_3_11
+source $HOME/miniforge3/etc/profile.d/conda.sh
+conda activate halo-teamx
 
 # Convert day-of-year to actual date (fixed syntax)
 target_date=$(date -d "${YEAR}-01-01 +$((SLURM_ARRAY_TASK_ID - 1)) days" +%Y%m%d)
