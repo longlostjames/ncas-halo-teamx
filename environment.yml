@@ -2,7 +2,7 @@ name: halo-teamx
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.12
   - numpy
   - pandas
   - xarray
@@ -13,6 +13,7 @@ dependencies:
   - arm_pyart
   - netcdf4
   - scipy
+  - cmocean
   - pip
   - pip:
     - doppy  # or install locally with pip install -e /path/to/doppy
