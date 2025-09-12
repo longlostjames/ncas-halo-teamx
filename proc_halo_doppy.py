@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import doppy
-#from doppy.options import OverlappedGatesOptions, OverlappedGatesMode
+from doppy.options import OverlappedGatesOptions, OverlappedGatesMode
 
 import os
 import glob
@@ -27,13 +27,13 @@ print(stare_files)
 print(background_files)
 
 # Force overlapped gates with default parameters (div=2, mul=3)
-#opts = OverlappedGatesOptions(mode=OverlappedGatesMode.FORCE_OVERLAPPED)
+opts = OverlappedGatesOptions(mode=OverlappedGatesMode.FORCE_OVERLAPPED)
 
 stare = doppy.product.Stare.from_halo_data(
     data=stare_files,
     data_bg=background_files,
     bg_correction_method=doppy.options.BgCorrectionMethod.FIT,
-    #overlapped_gates=opts
+    overlapped_gates=opts
 )
 
 # Construct output directory and filename
