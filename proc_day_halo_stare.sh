@@ -10,7 +10,7 @@
 
 # Activate conda environment
 source $HOME/anaconda3/etc/profile.d/conda.sh
-conda activate cao_3_11
+conda activate halo-teamx
 
 # Use provided date or default to today
 if [ -z "$1" ]; then
