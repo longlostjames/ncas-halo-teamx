@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import doppy_ncas_fork as doppy
+import doppy
 import os
 import glob
 import argparse
@@ -12,6 +12,8 @@ import cftime
 import cmocean
 import pandas as pd
 import pyart
+import xarray as xr
+import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 

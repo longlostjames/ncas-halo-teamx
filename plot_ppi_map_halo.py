@@ -14,7 +14,7 @@ import matplotlib.colors as colors
 import matplotlib.image as mpimg
 import cmocean
 import pyart
-import doppy_ncas_fork as doppy
+import doppy
 from pathlib import Path
 import cartopy.crs as ccrs
 import cartopy.feature as cfeature

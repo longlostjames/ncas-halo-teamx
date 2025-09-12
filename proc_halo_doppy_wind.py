@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import doppy_ncas_fork as doppy
+import doppy
 import os
 import glob
 import argparse

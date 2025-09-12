@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-import doppy_ncas_fork as doppy
-from doppy_ncas_fork.options import OverlappedGatesConfig, OverlappedGatesMode
+import doppy
+from doppy.options import OverlappedGatesOptions, OverlappedGatesMode
 
 import os
 import glob
@@ -27,7 +27,7 @@ print(stare_files)
 print(background_files)
 
 # Force overlapped gates with default parameters (div=2, mul=3)
-opts = OverlappedGatesConfig(mode=OverlappedGatesMode.FORCE_OVERLAPPED)
+opts = OverlappedGatesOptions(mode=OverlappedGatesMode.FORCE_OVERLAPPED)
 
 stare = doppy.product.Stare.from_halo_data(
     data=stare_files,
