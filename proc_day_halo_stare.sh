@@ -9,7 +9,7 @@
 #SBATCH --mem=64G
 
 # Activate conda environment
-source $HOME/anaconda3/etc/profile.d/conda.sh
+source $HOME/miniforge3/etc/profile.d/conda.sh
 conda activate halo-teamx
 
 # Use provided date or default to today
