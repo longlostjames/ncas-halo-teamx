@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 
-import xarray as xr
-import matplotlib.pyplot as plt
+import doppy_ncas_fork as doppy
+import os
+import glob
+import argparse
 from matplotlib import colors
 import numpy as np
 import matplotlib.dates as mdates
-import argparse
 import sys
-import os
 import cftime
 import cmocean
 import pandas as pd
